@@ -1,4 +1,4 @@
-collectd (5.4.1-6) unstable; urgency=medium
+collectdSF (5.4.1-6) unstable; urgency=medium
 
   * debian/patches:
     - Added bts770681_riemann_ack: upstream fix for the write_riemann plugin
