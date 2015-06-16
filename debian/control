@@ -1,4 +1,4 @@
-Source: collectd
+Source: collectdSF
 Section: utils
 Priority: optional
 Maintainer: Sebastian Harl <tokkee@debian.org>
